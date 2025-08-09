@@ -1,4 +1,4 @@
-Hi, I'm Hari Ranger — a passionate B.Tech student specializing in Artificial Intelligence and Data Science. I'm currently focusing on building skills in Machine Learning, Deep Learning, and Data Analytics. I enjoy solving real-world problems using code and turning ideas into practical solutions.
+Hi, I'm Hari  — a passionate B.Tech student specializing in Artificial Intelligence and Data Science. I'm currently focusing on building skills in Machine Learning, Deep Learning, and Data Analytics. I enjoy solving real-world problems using code and turning ideas into practical solutions.
 
 🔧 Tech Stack
 
